@@ -5,7 +5,7 @@ date:   2017-05-20 13:15:04 +0100
 categories: jekyll update
 ---
 
-![Upfront Conf 2017](/assets/img/IMG_2624.jpg){:class="img-responsive"}
+![Upfront Conf 2017]({{ site.baseurl}}/assets/img/IMG_2624.jpg){:class="img-responsive"}
 
 ### Yesterday I was witness to something very special indeed...
 
