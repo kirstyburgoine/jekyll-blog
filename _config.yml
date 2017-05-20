@@ -18,7 +18,7 @@ email: kburgoine@googlemail.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to my new blog. This is a much more simplified version of previous incarnations. 
   It is my new playground to experiment with new techniques and technologies so apologies if it sometimes appears broken or is a bit ugly :)
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll-blog"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 port: 4001
 twitter_username: kirstyburgoine
