@@ -5,9 +5,9 @@ date:   2017-05-20 13:15:04 +0100
 categories: conferences and meetups
 ---
 
-![Upfront Conf 2017]({{ site.baseurl }}/assets/img/IMG_2624.JPG)
-
 ### Yesterday I was witness to something very special indeed...
+
+![Upfront Conf 2017]({{ site.baseurl }}/assets/img/IMG_2624.JPG)
 
 I went to UpFront Conf in Manchester, and while it was utterly awesome in its own right (separate write up coming soon), there was one very specific highlight that surpasses anything I’ve ever seen at a conference before. And that was Eric Meyer’s video address to the conference at the end of the day.
 
