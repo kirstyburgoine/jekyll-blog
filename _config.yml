@@ -24,6 +24,12 @@ port: 4001
 twitter_username: kirstyburgoine
 github_username:  kirstyburgoine
 
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
 # Build settings
 markdown: kramdown
 theme: minima
