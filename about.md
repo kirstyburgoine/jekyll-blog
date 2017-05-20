@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello!
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+This is a new blog for fun stuff and so I can mess around with code. YAY :)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+My old blog can still be found here: [Wordpress.com](https://kirstyburgoine.wordpress.com/)
+I also write on the Fisheye Blog here: [Fisheye Blog] (http://fisheye-webdesign.co.uk/insights/)
+
+I've also written tutorials on WordPress for NetMag and various online blogs, I speak at conferences and meet ups from time to time on a range of subjects too.
+
+Why not get in touch and have a chat :)
