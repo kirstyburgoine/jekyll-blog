@@ -5,7 +5,7 @@ date:   2017-05-20 13:15:04 +0100
 categories: conferences and meetups
 ---
 
-![Upfront Conf 2017]({{ site.url }}/assets/img/IMG_2624.JPG).
+![Upfront Conf 2017]({{ site.baseurl }}/jekyll-blog/assets/img/IMG_2624.JPG)
 
 ### Yesterday I was witness to something very special indeed...
 
